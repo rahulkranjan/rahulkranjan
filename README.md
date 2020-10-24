@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/thinkranjan/">
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.codechef.com/users/rahulkranjan">
+<a href="https://www.hackerrank.com//users/rahulkranjan">
   <img align="left" alt="Rahul's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
