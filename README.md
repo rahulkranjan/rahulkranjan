@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **rahulkranjan/rahulkranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey 👋🏽, I'm Rahul!<p align="left">
+### Hey 👋, I'm Rahul!<p align="left">
 
 <br/>
 
