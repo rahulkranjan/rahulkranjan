@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Rahul Kumar Ranjan, a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy cooking food and traveling.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
   
 **Talking about my Personal Stuffs:**
 
