@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://twitter.com/thinkranjan">
-  <img align="left" alt="Aman Jhurani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rahulkranjan/">
   <img align="left" alt="Rahul's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
