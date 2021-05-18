@@ -41,7 +41,7 @@ Hi, I'm Rahul Kumar Ranjan, a Full Stack Developer 🚀 from India, currently. B
   
 **Talking about my Personal Stuffs:**
 
-- 🌱 I’m currently learning Machine Learning;
+- 🌱 I’m currently learning Flutter;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 📫 How to reach me: kjrahul21@gmail.com;
 
